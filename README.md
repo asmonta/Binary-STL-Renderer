@@ -92,10 +92,10 @@ Returns the image shown at the beginning
 - Zoom using scroll
 - Arrow keys can also be used for navigation
 
-## Code Structure
-
 ## Disabling shader
 For those that want a fast renderer, it is suggested to uncomment and comment lines 140-143 which disable the shaders
+
+## Code Structure
 
 ### Functions
 
